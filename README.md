@@ -9,7 +9,10 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
+[Task1 (http://localhost:3000/task1)](http://localhost:3000/task1)\
+[Task2 (http://localhost:3000/task2)](http://localhost:3000/task2)\
+[Task3 (http://localhost:3000/task3)](http://localhost:3000/task3)
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
