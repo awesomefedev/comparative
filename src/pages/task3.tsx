@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 import "../App.css";
 import { AxisOptions, Chart } from "react-charts";
 import moment from "moment";
